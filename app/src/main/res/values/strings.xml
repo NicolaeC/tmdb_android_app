@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TMDB Test</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top rated</string>
+    <string name="length">Length</string>
+    <string name="rating">Rating</string>
+    <string name="release_date">Release Date</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="time_minutes_fmt">%d min</string>
+</resources>
